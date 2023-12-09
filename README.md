@@ -1,6 +1,7 @@
 # HydraponicProfiles
 Мои гидропонические профили.
 Копии GHE удобрений
+
 GHE Bloom NPK - 0-5-4:
 
 MgS04 - 51г
